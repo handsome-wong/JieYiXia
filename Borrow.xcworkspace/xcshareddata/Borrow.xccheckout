@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>26CDBCB8-B780-4224-8D84-78B2060FF174</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Borrow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0F515B459FDFCC2B2F841CDA5C527325EC10C3F0</key>
+		<string>git.oschina.net:gao267258113/IOS_JieYiXia.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Borrow.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0F515B459FDFCC2B2F841CDA5C527325EC10C3F0</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.oschina.net:gao267258113/IOS_JieYiXia.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0F515B459FDFCC2B2F841CDA5C527325EC10C3F0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0F515B459FDFCC2B2F841CDA5C527325EC10C3F0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JieYiXia</string>
+		</dict>
+	</array>
+</dict>
+</plist>
